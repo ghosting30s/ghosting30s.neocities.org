@@ -65,18 +65,15 @@ function headerHTML() {
         <div class="sidebar-section">
           <div class="sidebar-title">monthly somethin</div>
           <blockquote>
-            <p>weird to be coding again after like five million years</p>
-            <p>kinda fun</p>
+            <p>i'm really good at keeping up with things I promise</p>
           </blockquote>
         </div>
         
         <div class="sidebar-section">
           <div class="sidebar-title">recent updates</div>
           <ul>
+            <li>9/28/2026 - so that was a fucking lie. anyway</li>
             <li>7/18/2025 - whole site being revamped</li>
-            <li></li>
-            <li></li>
-            <li></li>
           </ul>
         </div>
 
